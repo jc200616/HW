@@ -6,6 +6,7 @@ print("Hello, World!")
 ```
 the print() function (Python 3.x)
 ```
-builtin-function.py
+print(dir(__builtins__))
+```
 
 list builtin function
