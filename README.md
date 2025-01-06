@@ -9,7 +9,7 @@ the print() function (Python 3.x)
 print(dir(__builtins__))
 ```
 
-list builtin function
+List builtin function
 
 Python 3.x zip
 
