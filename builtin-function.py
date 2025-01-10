@@ -1,4 +1,1 @@
-﻿print(dir(__builtins__))
-n
-m9,
-
+﻿print(dir(__builtins__)
