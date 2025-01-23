@@ -1,6 +1,6 @@
 ﻿import os
 import sys
-#3
+
 def split_file(filename, chunk_size, output_dir):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
